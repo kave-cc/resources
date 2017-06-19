@@ -1,3 +1,19 @@
+## License ####################################################################
+
+Copyright 2011-2017 KaVE Team, TU Darmstadt, Uni Zürich
+
+All source code of the KaVE project is licensed under the Apache Public License (APLv2), you can find the full license text above. A short version of the license and the individual copyright holders are stated in each source file. Our release datasets [1] represent an exception, their licenses are stated on the correspsonding download page.
+
+The KaVE project is build on top of other open source software [2].
+
+For technical reasons required by the ReSharper runtime, each of our FeedBaG releases repackages several of its dependencies. We are not claiming that the repackaged dependencies are our work. When using this plugin, you agree that you respect the original licenses.
+
+[1] http://www.kave.cc/datasets
+[2] https://github.com/kave-cc/resources/tree/master/licenses
+
+
+## Full License Text ##########################################################
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
