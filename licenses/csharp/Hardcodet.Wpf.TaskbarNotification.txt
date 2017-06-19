@@ -1,13 +1,12 @@
-<h2>Hardcodet.Wpf.TaskbarNotification.dll
-<a href="http://www.hardcodet.net/wpf-notifyicon">link</a></h2>
-<h3>Philipp Sumi</h3>
-<h4>The Code Project Open License (CPOL) 1.02</h4>
+Hardcodet.Wpf.TaskbarNotification
+http://www.hardcodet.net/wpf-notifyicon
 
-<p>The Code Project Open License (CPOL) is intended to provide developers who choose to share their code with a license that protects them and provides users of their code with a clear statement regarding how the code can be used.
-</p>
-<p>
+Copyright by Philipp Sumi
+
+The Code Project Open License (CPOL) 1.02
+
+The Code Project Open License (CPOL) is intended to provide developers who choose to share their code with a license that protects them and provides users of their code with a clear statement regarding how the code can be used.
+
 The CPOL is our gift to the community. We encourage everyone to use this license if they wish regardless of whether the code is posted on CodeProject.com.
-</p>
-<p>
-<a href="https://www.codeproject.com/info/cpol10.aspx">Full Text of the License</a>
-</p>
+
+You will find the full text of the license at https://www.codeproject.com/info/cpol10.aspx.

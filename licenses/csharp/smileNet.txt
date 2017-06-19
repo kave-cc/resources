@@ -1,8 +1,9 @@
-<h2>smileNet.dll
-<a href="https://www.bayesfusion.com/">link</a></h2>
-<h3>BayesFusion, LLC</h3>
+smileNet
+https://www.bayesfusion.com/
 
-<h4>Academic License</h4>
+Copyright by BayesFusion, LLC
 
-<p>Academic users can download our software without cost for academic teaching and research use from the following page.
-"Academic teaching and research use" means using the software (1) for the purpose of academic teaching or research as part of an academic program or an academic research project, and (2) by a user who is at the time of use affiliated with an academic institution. In other words, affiliation with an academic institution alone, research conducted at government or industrial research centers, research conducted by members of university faculty in consulting projects, or use in a commercial educational institution do not qualify as academic teaching and research use.  If you do not qualify for an academic license, please visit our business downloads page.</p>
+Academic License
+
+Academic users can download our software without cost for academic teaching and research use from the following page.
+"Academic teaching and research use" means using the software (1) for the purpose of academic teaching or research as part of an academic program or an academic research project, and (2) by a user who is at the time of use affiliated with an academic institution. In other words, affiliation with an academic institution alone, research conducted at government or industrial research centers, research conducted by members of university faculty in consulting projects, or use in a commercial educational institution do not qualify as academic teaching and research use.  If you do not qualify for an academic license, please visit our business downloads page.
