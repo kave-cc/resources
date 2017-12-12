@@ -1,3 +1,5 @@
+(This dependency has been removed in FeedBaG v0.1018 and higher)
+
 MsgBox
 https://msgbox.codeplex.com
 
